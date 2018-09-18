@@ -1,0 +1,56 @@
+A|"Am"A e c d|e2 e A|"G"B d "Am"c B|A3 A|"F"f f f e|"Dm"d2 "G"d g|"Am"c c c "G"B|"C"c3:|
+|:c|"Am"e f "G"g G|"Am"c2 c c|"F"f e "Dm"d c|"E"B3 c|"Am"A B c A|"Dm"d2 d e|"Am"c d "E"e ^G|"Am"A3:|
+|:e|"Am"e a "E"a ^g|"F"a g/f/ "Am"e e|e a a "G"g|"B"^f2 "Am"e:|
+|:g|"F"f e "Dm"d f|"Am"e d/e/ c e|"Dm"d c "Am"B c|"G"d/c/B/c/ "Am"A2|
+"Am"A/B/c/d/ "Em"e e|"Am"e a "E"^g2|"Am"A/B/c/d/ e d/c/|"E"B2 "Am"A:|A2||
+"Em"B3 c BA|B3 c BA|B4 e2|B3 B ef|"C"g4 g2|"B7"f4 e2|
+"Bm"f3 g f2|"Em"B6|"C"e4 e2|"D"d4 c2|"Em"B4 A2|G3 E GA|B3 A GB|
+"B7"A3 G FB|"Em"E6|E6 !fine!y||"C"e4 e2|g3 f e2|"G"d6|B6|
+"D7"A3 B c2|c3 B A2|"G"B4 c2|d6|"C"e4 e2|g3 f e2|
+"G"d6|B6|"D7"A3 B c2|D2 E2 F2|"G"G3 A GF|!D.C.!G6|]
+!mp! D2|:"G" G4 B2|d4 B2|"C"c3 e c2|"D"A4 F2|"G"G4 B2|d3 g g2|
+"G"f d3 "Em"B2|"D"d4 c2|"G"B4 G2|D4 B,2|"C"E3 C E2|"D"D4 GF|
+"C"E3 "G"D "C"E2|"Am"C "G"B,3 "Am"A,2|"D"C3 B, A,2|"G"G,4 B,!mf!D||
+"G"G6|!>!d6|"D"f3 g a2|a2 "G"b2 "D7"c'2|
+"D"c'2 "G"b2 "D"a2|"C"g f3 e2|"D"(f4 f/e/f/g/|"G"a4) d2|B4 G2|
+"G"d4 B2|"C"e3 c e2|"D"d4 gf|"C"e3 "G"d "C"e2|
+"Am"c "G"B3 "Am"A2|1 "D" c3 B A2|"G"G4 D2:|2"D" c3 B A2|"G"!fermata![B,DG]6|]
+c3/2B/|"Am"A2 c3/2d/ e2|A2 c3/2d/ e2|"G"d3/2e/ dc BA|"Em"(3GAB G2 E2|
+"Am"c3 B A2|"G"d3 c B2|"Am"ce "Em"E2 G2|"Am"A4 c3/2B/||
+"Am"A2 c3/2d/ e2|A2 c3/2d/ e2|"G"d3/2e/ dc BA|"Em"(3GAB G2 E2|
+"C"g3 f e2|"F"a3 "G"g ed|"Am"ce"Em"dc Bc|"Am"A4 A2||
+"Am"e2 a3/2b/ c'2|e2 a3/2b/ c'2|"F"c'bag "G"ab|"C"c'2 e2 e2|
+"Dm"f2 af ed|"C"e2 ge dc|"Dm"d2 "Am"e2 "Em"g2|"Am"a6||
+"F"ageg a2|"C"gede g2|edcd ec|"G"d2 B2 G2|
+"Am"c3 B A2|"G"d3 c B2|"Am"ce "Em"E2 G2|"Am"A4|]
+G2 d2|B A/B/ G A/B/|c B A G|F/G/ A/F/ D3/2 D/|E2 F2|G/F/ G/A/ G c|B A/G/ A G/F/|G2 G2:|
+|:d/e/ d/c/ B d|d/e/ d/c/ B d|e d e f|g2 d e/f/|g f/e/ d c/B/|e d/c/ B A/B/|
+c B A G|F E/F/ D D|E2 F2|G/F/ G/A/ G c|B A/G/ A G/F/|G2 G2:|
+|:g/f/ g/a/ g d|g3 d|B/c/ d B/c/ d|B/c/ B/A/ G d|g/f/ g/a/ g d|g3 d|B/c/ d B/c/ d|d3 d:|
+|:B A A B/c/|d3 g|d d d c/B/|A/G/ A/B/ A G/A/|
+B/c/ B/A/ G/A/ B/c/|d/c/ d/e/ d g|B g G/A/ B/A/|1 G3 B:|2 G4|]
+DE|"Am"A3 E A2|"Em"G3 A G2|"C"E3 D C2|"G"D4 GA|"Em"B3 A G2|"G"G d3 D2|B3 d B2|"D"A4 DE|
+"Am"A3 E A2|"Em"G3 A G2|"C"E3 D C2|"G"D4 GA|B3 D dB|"D7"A3 D BA|"C"G6|"G"G4 Bc||
+"G"d3 D D2|"Em"B3 A G2|"C"E C3 E2|"G"D4 GA|"Em"B3 A G2|"G"G d3 D2|B3 d B2|"D"A4 DE|
+"Am"A3 E A2|"Em"G3 A G2|"C"E3 D C2|"G"D4 GA|B3 D dB|"D7"A3 D BA|"C"G6|"G"G4:|
+dc|"G"B2 Bc "D"A2 AB|"G"G2 "C"G2 "G"G2 AB|"C"cBcd "Am"edcB|"D"A2 A2 A2 dc|
+"G"B2 Bc "D"A2 AB|"Em"G2 G2 "G"G2 AB|"Am"cBAG "D7"FGAF|"G"G2 G2 G2:|
+dc|"G"B2 gf "C"e2 ed|"Am7"dcBc "D"A2 dc|"G"B2 gf "Am"edcB|"D"A2 A2 A2 dc|
+"G"B2 gf "C"e2 ed|"Am7"dcBc "D"A2 dc|"G"BdcB "D7"AcBA|"G"G2 G2 G2||
+Bc|"G"d2 d2 d2 g2|d2 d2 d2 g2|d2 d2 "C"edcB|"D"A2 A2 A2 Bc|
+"G"d2 d2 d2 g2|d2 d2 d2 g2|"C"edcB "D7"dcBA|"G"G2 G2 G2|]
+dc|"G"B2 Bc "D"A2 AB|"G"G2 "C"G2 "G"G2 AB|"C"cBcd "Am"edcB|"D"A2 A2 A2 dc|
+"G"B2 Bc "D"A2 AB|"Em"G2 G2 "G"G2 AB|"Am"cBAG "D7"FGAF|"G"G2 G2 G2:|
+dc|"G"B2 gf "C"e2 ed|"Am7"dcBc "D"A2 dc|"G"B2 gf "Am"edcB|"D"A2 A2 A2 dc|
+"G"B2 gf "C"e2 ed|"Am7"dcBc "D"A2 dc|"G"BdcB "D7"AcBA|"G"G2 G2 G2||
+Bc|"G"d2 d2 d2 g2|d2 d2 d2 g2|d2 d2 "C"edcB|"D"A2 A2 A2 Bc|
+"G"d2 d2 d2 g2|d2 d2 d2 g2|"C"edcB "D7"dcBA|"G"G2 G2 G2|]
+BA|"G"G2GA B2G2|"D7"c2AB c2A2|"G"B2G2 GABc|"D7"d2A2 F2D2|
+"G"G2GA B2G2|"C"c2cB "Am"A2c2|"G"B2G2 "D7"FGAF|"G"G2G2 G2:|
+|:dc|"G"B2d2 d2cB|"D7"A2c2 c2BA|"Em"G2B2 "A7"B2AG|"D"F2A2 "D7"F2D2|
+"G"G2GA B2G2|"D7"c2AB c2A2|"G"B2G2 GABc|"D7"d2A2 F2D2|
+"G"G2GA B2G2|"C"c2cB "Am"A2c2|"G"B2G2 "D7"FGAF|"G"G2G2 G2:|
+D G|B3 d|B A G F|E4-|E2 A G|F2-F G|A F G A|B d B/A/ G|A D G A|
+B3 d|B A G F|E4-|E2 A G|F2-F G|A B A F|G4-|1 G2:|2 G2 B d||
+|:e3 f|g2 f e|d2 B2|G3 F|E G c e|d2 B G|E G c B|A3 G/A/|
+B3 d|B A G F|E4-|E2 A G|F3 G|A B A F|G4-|1 G2 B d:|2 G4|]
