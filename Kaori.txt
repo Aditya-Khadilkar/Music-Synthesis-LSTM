@@ -1,0 +1,22 @@
+X:3
+T:Kaori
+%%score [1|2|3]
+L:1/4
+M:4/4
+Q:1/4=140
+K:Am
+V:1 treble nm="T1"
+V:1
+%%MIDI program 41
+"c3 e c2|"D"A4 F2|"G"G4 B2|d3 g g2|
+"G"f d3 "Em"B2|"D"d4 c2|"G"B4 G2|D4 B,2|"C"E3 C E2|"D"D4 GF|
+"C"E3 "G"D "C"E2|"Am"C "G"B,3 "Am"A,2|"D"C3 B, A,2|"G"G,4 B,!mf!D||
+"G"G6|!>!d6|"D"f3 g a2|a2 "G"b2 "D7"c'2|
+"D"c'2 "G"b2 "D"a2|"C"g
+V:2
+%%MIDI program 48
+"c3 e c2|"D"A4 F2|"G"G4 B2|d3 g g2|
+"G"f d3 "Em"B2|"D"d4 c2|"G"B4 G2|D4 B,2|"C"E3 C E2|"D"D4 GF|
+"C"E3 "G"D "C"E2|"Am"C "G"B,3 "Am"A,2|"D"C3 B, A,2|"G"G,4 B,!mf!D||
+"G"G6|!>!d6|"D"f3 g a2|a2 "G"b2 "D7"c'2|
+"D"c'2 "G"b2 "D"a2|"C"g
